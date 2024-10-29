@@ -1,0 +1,7 @@
+{
+	"name": "selfhost",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "to connect sql server"
+	}
+}
